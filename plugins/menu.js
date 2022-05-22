@@ -51,7 +51,7 @@ const defaultMenu = {
   header: '╭─「 %category 」',
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
-  after: `𝙍𝙄𝙁𝘼𝙏 𝘽𝙊𝙏𝙯彡
+  after: `JAROTBOTZ彡
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
@@ -171,7 +171,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
              {
              urlButton: {
                displayText: 'Nomor Owner',
-               url: 'http://wa.me/6281390492911?text=banh'
+               url: 'http://wa.me/6285850539404?text=banh'
              }
 
            },
